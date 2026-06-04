@@ -35,6 +35,28 @@ const projects = [
     ],
     images: ['/placeholder.jpg', '/placeholder.jpg', '/placeholder.jpg'],
   },
+  {
+    id: '4',
+    title: 'Проект 4',
+    description: 'Короткое описание проекта — концепция, стиль, площадь и общий характер пространства.',
+    tasks: [
+      'Разработка дизайн-проекта',
+      'Авторский надзор',
+      'Подбор мебели и материалов',
+    ],
+    images: ['/placeholder.jpg', '/placeholder.jpg', '/placeholder.jpg'],
+  },
+  {
+    id: '5',
+    title: 'Проект 5',
+    description: 'Короткое описание проекта — концепция, стиль, площадь и общий характер пространства.',
+    tasks: [
+      'Архитектурная визуализация',
+      'Планировочные решения',
+      'Комплектация объекта',
+    ],
+    images: ['/placeholder.jpg', '/placeholder.jpg', '/placeholder.jpg'],
+  },
 ];
 
 export default function Project() {
